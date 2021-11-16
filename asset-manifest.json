@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ctmateo.github.io/page_loader_images/static/css/main.5fe316d4.chunk.css",
+    "main.js": "/ctmateo.github.io/page_loader_images/static/js/main.2a7f3e18.chunk.js",
+    "main.js.map": "/ctmateo.github.io/page_loader_images/static/js/main.2a7f3e18.chunk.js.map",
+    "runtime-main.js": "/ctmateo.github.io/page_loader_images/static/js/runtime-main.6ab661db.js",
+    "runtime-main.js.map": "/ctmateo.github.io/page_loader_images/static/js/runtime-main.6ab661db.js.map",
+    "static/js/2.fd2a0bb7.chunk.js": "/ctmateo.github.io/page_loader_images/static/js/2.fd2a0bb7.chunk.js",
+    "static/js/2.fd2a0bb7.chunk.js.map": "/ctmateo.github.io/page_loader_images/static/js/2.fd2a0bb7.chunk.js.map",
+    "static/js/3.01d48734.chunk.js": "/ctmateo.github.io/page_loader_images/static/js/3.01d48734.chunk.js",
+    "static/js/3.01d48734.chunk.js.map": "/ctmateo.github.io/page_loader_images/static/js/3.01d48734.chunk.js.map",
+    "index.html": "/ctmateo.github.io/page_loader_images/index.html",
+    "static/css/main.5fe316d4.chunk.css.map": "/ctmateo.github.io/page_loader_images/static/css/main.5fe316d4.chunk.css.map",
+    "static/js/2.fd2a0bb7.chunk.js.LICENSE.txt": "/ctmateo.github.io/page_loader_images/static/js/2.fd2a0bb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ab661db.js",
+    "static/js/2.fd2a0bb7.chunk.js",
+    "static/css/main.5fe316d4.chunk.css",
+    "static/js/main.2a7f3e18.chunk.js"
+  ]
+}
